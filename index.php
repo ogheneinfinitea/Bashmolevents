@@ -109,7 +109,7 @@
 				   				<div class="slider-text-inner text-center">
 				   					<h2>Welcome to the Bashmol event centre</h2>
 				   					<h1>A Luxurious Event Centre</h1>
-										<p><a class="btn btn-primary btn-demo" href="#"></i> View Detail</a> <a class="btn btn-primary btn-learn">Know More</a></p>
+										
 				   				</div>
 				   			</div>
 				   		</div>
@@ -123,7 +123,7 @@
 				   				<div class="slider-text-inner text-center">
 				   					<h2>Discover &amp; Enjoy</h2>
 				   					<h1>Everything you need in luxehotel</h1>
-										<p><a class="btn btn-primary btn-demo" href="#"></i> View Detail</a> <a class="btn btn-primary btn-learn">Know More</a></p>
+										
 				   				</div>
 				   			</div>
 				   		</div>
@@ -137,7 +137,7 @@
 				   				<div class="slider-text-inner text-center">
 				   					<h2>You are invited</h2>
 				   					<h1>We know how to please you</h1>
-										<p><a class="btn btn-primary btn-demo" href="#"></i> View Detail</a> <a class="btn btn-primary btn-learn">Know More</a></p>
+										
 				   				</div>
 				   			</div>
 				   		</div>
@@ -151,7 +151,7 @@
 				   				<div class="slider-text-inner text-center">
 				   					<h2>Come &amp; enjoy the unforgetable nights</h2>
 				   					<h1>In the heart of luxehotel</h1>
-										<p><a class="btn btn-primary btn-demo" href="#"></i> View Detail</a> <a class="btn btn-primary btn-learn">Know More</a></p>
+										
 				   				</div>
 				   			</div>
 				   		</div>
@@ -331,8 +331,8 @@
 						<ul class="colorlib-footer-links">
 							<li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
 							<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-							<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-							<li><a href="http://luxehotel.com">luxehotel.com</a></li>
+							<li><a href="mailto:info@bashmolevents.com.ng">info@yoursite.com</a></li>
+							<li><a href="http://bashmolevents.com.ng">luxehotel.com</a></li>
 						</ul>
 					</div>
 				</div>
