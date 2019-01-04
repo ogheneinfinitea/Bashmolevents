@@ -69,12 +69,13 @@
 							<p class="site">https://bashmolevents.com.ng</p>
 						</div>
 						<div class="col-xs-8 text-right">
-							<p class="num">Call: 08032236858</p>
+							<p class="num">Call: 08062301023</p>
 							<ul class="colorlib-social">
 								<li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
+								<li><a href="#"><i class="icon-instagram"></i></a></li>
+								<li><a href="#"><i class="icon-whatsapp"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -84,14 +85,15 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="index.html">Bashmolevents</a></div>
+							<div id="colorlib-logo"><a href="index.php">Bashmolevents</a></div>
 						</div>
 						<div class="col-xs-10 text-right menu-1">
 							<ul>
-								<li class="active"><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="contact.html">Services</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li class="active"><a href="index.php">Home</a></li>
+								<li><a href="aboutus.php">About</a></li>
+								<li><a href="services.php">Services</a></li>
+								<li><a href="contact.php">Contact</a></li>
+								<li><a href="reservations.php">Reservations</a></li>
 							</ul>
 						</div>
 					</div>
@@ -192,7 +194,7 @@
 								<i class="flaticon-car"></i>
 							</span>
 							<h3>Workshops</h3>
-							<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
+														<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
 						</div>
 					</div>
 					<div class="col-md-3 animate-box text-center">
@@ -217,37 +219,37 @@
 					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
 						<h2>Our Satisfied Guests says</h2>
-						<p>We love to tell our successful far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						<p></i> Bashmol event centre provides one of the best services i have seen, thumbs up to them. keep up the good work</p>
 					</div>
 				</div>
 				<div class="row">
 				<div class="col-md-4 animate-box">
 					<div class="testimony text-center">
-						<span class="img-user" style="background-image: url(images/customer1.jpg);"></span>
-						<span class="user">Brian Doe</span>
+						<span class="img-user" style="background-image: url(images/customer2.jpg);"></span>
+						<span class="user">Samson Eduotu</span>
 						<small>Satisfied Customer</small>
 						<blockquote>
-							<p></i> Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+							<p></i> Bashmol event centre provides one of the best services i have seen, thumbs up to them. keep up the good work</p>
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-md-4 animate-box">
 					<div class="testimony text-center">
 						<span class="img-user" style="background-image: url(images/customer2.jpg);"></span>
-						<span class="user">Nathalie Miller</span>
+						<span class="user">Amarachi Celestina</span>
 						<small>Satisfied Customer</small>
 						<blockquote>
-							<p></i> Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+							<p></i> Bashmol event centre provides one of the best services i have seen, thumbs up to them. keep up the good work</p>
 						</blockquote>
 					</div>
 				</div>
 				<div class="col-md-4 animate-box">
 					<div class="testimony text-center">
-						<span class="img-user" style="background-image: url(images/customer3.jpg);"></span>
-						<span class="user">Shara Jones</span>
+						<span class="img-user" style="background-image: url(images/customer2.jpg);"></span>
+						<span class="user">Musa Sule</span>
 						<small>Satisfied Customer</small>
 						<blockquote>
-							<p></i> Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+							<p></i> Bashmol event centre provides one of the best services i have seen, thumbs up to them. keep up the good work</p>	
 						</blockquote>
 					</div>
 				</div>
@@ -268,6 +270,9 @@
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin"></i></a></li>
 								<li><a href="#"><i class="icon-instagram"></i></a></li>
+								<li><a href="#"><i class="icon-whatsapp"></i></a></li>
+
+
 							</ul>
 						</p>
 					</div>
@@ -286,8 +291,8 @@
 					<div class="col-md-4 col-md-push-1">
 						<h4>Contact Information</h4>
 						<ul class="colorlib-footer-links">
-							<li>291 South 21th Street, <br> Ibadan Nigeria</li>
-							<li><a href="08062301023">Whatsapp 08062301023</a></li>
+							<li>opposite Holy Trinity grammar school. old ife road, <br> Ibadan Nigeria</li>
+							<li><a href="08062301023"><li><a href="#"><i class="icon-whatsapp">08062301023</i></a></li></a></li>
 							<li><a href="mailto:info@bashmolevents.com.ng">info@bashmolevents.com.ng</a></li>
 							<li><a href="http://bashmolevents.com.ng">bashmolevents.com.ng</a></li>
 						</ul>
