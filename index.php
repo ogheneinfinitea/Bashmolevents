@@ -121,8 +121,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Discover &amp; Enjoy</h2>
-				   					<h1>Everything you need in luxehotel</h1>
+				   					<h2>Welcome to the Bashmol event centre</h2>
+				   					<h1>A Luxurious Event Centre</h1>
 										
 				   				</div>
 				   			</div>
@@ -135,8 +135,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>You are invited</h2>
-				   					<h1>We know how to please you</h1>
+				   					<h2>Welcome to the Bashmol event centre</h2>
+				   					<h1>A Luxurious Event Centre</h1>
 										
 				   				</div>
 				   			</div>
@@ -149,8 +149,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Come &amp; enjoy the unforgetable nights</h2>
-				   					<h1>In the heart of luxehotel</h1>
+				   					<h2>Welcome to the Bashmol event centre</h2>
+				   					<h1>A Luxurious Event Centre</h1>
 										
 				   				</div>
 				   			</div>
@@ -161,6 +161,11 @@
 		  	</div>
 		
 		<div id="colorlib-services">
+			<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
+						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
+						<h2>Our Services</h2>
+						<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
+					</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3 animate-box text-center">
@@ -169,7 +174,7 @@
 								<i class="flaticon-reception"></i>
 							</span>
 							<h3>24/7 Front Desk</h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+							<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
 						</div>
 					</div>
 					<div class="col-md-3 animate-box text-center">
@@ -178,7 +183,7 @@
 								<i class="flaticon-herbs"></i>
 							</span>
 							<h3>Confrence</h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+							<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
 						</div>
 					</div>
 					<div class="col-md-3 animate-box text-center">
@@ -187,7 +192,7 @@
 								<i class="flaticon-car"></i>
 							</span>
 							<h3>Workshops</h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+							<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
 						</div>
 					</div>
 					<div class="col-md-3 animate-box text-center">
@@ -196,7 +201,7 @@
 								<i class="flaticon-cheers"></i>
 							</span>
 							<h3>Seminars</h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
+							<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
 						</div>
 					</div>
 				</div>
@@ -204,56 +209,8 @@
 
 			</div>
 
-			<div id="colorlib-services">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3 animate-box text-center">
-						<div class="services">
-							<span class="icon">
-								<i class="flaticon-church"></i>
-							</span>
-							<h3>Burial</h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-						</div>
-					</div>
-					<div class="col-md-3 animate-box text-center">
-						<div class="services">
-							<span class="icon">
-								<i class="flaticon-cake"></i>
-							</span>
-							<h3>Church Service</h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-						</div>
-					</div>
-					<div class="col-md-3 animate-box text-center">
-						<div class="services">
-							<span class="icon">
-								<i class="flaticon-car"></i>
-							</span>
-							<h3>Transfer Services</h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-						</div>
-					</div>
-					<div class="col-md-3 animate-box text-center">
-						<div class="services">
-							<span class="icon">
-								<i class="flaticon-cheers"></i>
-							</span>
-							<h3>Wedding Reception</h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		</div>
-
-
-
-
-
-
-		
+			
+	
 		<div id="colorlib-testimony" class="colorlib-light-grey">
 			<div class="container">
 				<div class="row">
@@ -266,7 +223,7 @@
 				<div class="row">
 				<div class="col-md-4 animate-box">
 					<div class="testimony text-center">
-						<span class="img-user" style="background-image: url(images/person2.jpg);"></span>
+						<span class="img-user" style="background-image: url(images/customer1.jpg);"></span>
 						<span class="user">Brian Doe</span>
 						<small>Satisfied Customer</small>
 						<blockquote>
@@ -276,7 +233,7 @@
 				</div>
 				<div class="col-md-4 animate-box">
 					<div class="testimony text-center">
-						<span class="img-user" style="background-image: url(images/person1.jpg);"></span>
+						<span class="img-user" style="background-image: url(images/customer2.jpg);"></span>
 						<span class="user">Nathalie Miller</span>
 						<small>Satisfied Customer</small>
 						<blockquote>
@@ -286,7 +243,7 @@
 				</div>
 				<div class="col-md-4 animate-box">
 					<div class="testimony text-center">
-						<span class="img-user" style="background-image: url(images/person3.jpg);"></span>
+						<span class="img-user" style="background-image: url(images/customer3.jpg);"></span>
 						<span class="user">Shara Jones</span>
 						<small>Satisfied Customer</small>
 						<blockquote>
@@ -303,14 +260,14 @@
 			<div class="container">
 				<div class="row row-pb-md">
 					<div class="col-md-4 colorlib-widget">
-						<h4>Luxehotel</h4>
-						<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+						<h4>Bashmolevents</h4>
+						<p> we have a highly dedicated trained and professionally qualified personnels capable of making your events a glorious,excellent and memorable one. SEEING IS BELIEVING!.</p>
 						<p>
 							<ul class="colorlib-social-icons">
 								<li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
+								<li><a href="#"><i class="icon-instagram"></i></a></li>
 							</ul>
 						</p>
 					</div>
@@ -318,10 +275,10 @@
 						<h4>Quick Links</h4>
 						<p>
 							<ul class="colorlib-footer-links">
-								<li><a href="#">Accomodation</a></li>
-								<li><a href="#">Dining &amp; Bar</a></li>
-								<li><a href="#">Restaurants</a></li>
-								<li><a href="#">Beach &amp; Resorts</a></li>
+								<li><a href="aboutus.php">About Us</a></li>
+								<li><a href="services.php">Our Services</a></li>
+								<li><a href="contact.php">Contact Us</a></li>
+								<li><a href="reservations.php">Make Reservations</a></li>
 							</ul>
 						</p>
 					</div>
@@ -329,10 +286,10 @@
 					<div class="col-md-4 col-md-push-1">
 						<h4>Contact Information</h4>
 						<ul class="colorlib-footer-links">
-							<li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
-							<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-							<li><a href="mailto:info@bashmolevents.com.ng">info@yoursite.com</a></li>
-							<li><a href="http://bashmolevents.com.ng">luxehotel.com</a></li>
+							<li>291 South 21th Street, <br> Ibadan Nigeria</li>
+							<li><a href="08062301023">Whatsapp 08062301023</a></li>
+							<li><a href="mailto:info@bashmolevents.com.ng">info@bashmolevents.com.ng</a></li>
+							<li><a href="http://bashmolevents.com.ng">bashmolevents.com.ng</a></li>
 						</ul>
 					</div>
 				</div>
