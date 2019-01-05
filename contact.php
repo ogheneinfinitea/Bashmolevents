@@ -66,14 +66,13 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-4">
-							<p class="site">https://bashmolevents.com.ng</p>
+							<p class="site">https://bashmoleventcentre.com.ng</p>
 						</div>
 						<div class="col-xs-8 text-right">
 							<p class="num">Call: 08062301023</p>
 							<ul class="colorlib-social">
 								<li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin"></i></a></li>
 								<li><a href="#"><i class="icon-instagram"></i></a></li>
 								<li><a href="#"><i class="icon-whatsapp"></i></a></li>
 							</ul>
@@ -93,7 +92,6 @@
 								<li ><a href="about.php">About</a></li>
 								<li><a href="servicees.php">Services</a></li>
 								<li class="active"><a href="contact.php">Contact</a></li>
-								<li><a href="reservations.php">Reservations</a></li>
 									</ul>
 								</li>
 								
@@ -136,11 +134,9 @@
 								<p><span><i class="icon-phone3"></i></span> <a href="08062301023">08062301023</a></p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@bashmolevents.com.ng">info@bashmolevents.com.ng</a></p>
+								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@bashmolevents.com.ng">info@bashmoleventcentre.com.ng</a></p>
 							</div>
-							<div class="col-md-3">
-								<p><span><i class="icon-globe"></i></span> <a href="https://bashmolevents.com.ng">bashmolevents.com.ng</a></p>
-							</div>
+							
 						</div>
 					</div>
 					<div class="col-md-10 col-md-offset-1 animate-box">
@@ -199,7 +195,6 @@
 							<ul class="colorlib-social-icons">
 								<li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin"></i></a></li>
 								<li><a href="#"><i class="icon-instagram"></i></a></li>
 								<li><a href="#"><i class="icon-whatsapp"></i></a></li>
 
@@ -214,7 +209,6 @@
 								<li><a href="aboutus.php">About Us</a></li>
 								<li><a href="services.php">Our Services</a></li>
 								<li><a href="contact.php">Contact Us</a></li>
-								<li><a href="reservations.php">Make Reservations</a></li>
 							</ul>
 						</p>
 					</div>
