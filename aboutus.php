@@ -104,7 +104,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_5.jpg);">
+			   	<li style="background-image: url(images/bash1.jpeg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -132,6 +132,11 @@
 					</div>
 					<div class="col-md-4">
 						<h2>OUR FEATURES</h2>
+						<P><B>HALLS WE HAVE</B></P>
+							<ul>
+								<li>SALAWU ADEDOKUN - 1300 guests (gallery) 900 guests without (gallery)</li>
+								<li>ASIMOWU OLANIKE HALL 400 GUESTS BANQUET ARRANGEMENT</li>
+							</ul>
 					</div>
 					<div class="col-md-4">
 						<div class="about animate-box">
