@@ -123,16 +123,33 @@
 		<div id="colorlib-about">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-md-4">
 						<div class="about animate-box">
-							<h2>Welcome to Bahmolevents</h2>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-							<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country. But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their.</p>
+							<h2>ABOUT US</h2>
+							<p>We have a highly dedicated trained and professionally qualified personnels capable of making your events a glorious,excellent and memorable one. SEEING IS BELIEVING!.</p>
+							<p>		</p>
 						</div>
 					</div>
-					<div class="col-md-6">
-						<img class="img-responsive" src="images/img_bg_5.jpg" alt="Free HTML5 Bootstrap Template by colorlib.com">
+					<div class="col-md-4">
+						<h2>OUR FEATURES</h2>
 					</div>
+					<div class="col-md-4">
+						<div class="about animate-box">
+							<h2>MISSION STATEMENT</h2>
+							<p>We have a highly dedicated trained and professionally qualified personnels capable of making your events a glorious,excellent and memorable one. SEEING IS BELIEVING!.we are to become the most excellent event centre in Africa. to archive this, our core values is our guide.</p>
+							
+							<ul>
+								<li>CORE VALUES</li>
+								<li>INTEGRITY</li>
+								<li>EXCELLENCE</il>
+								<li>CUSTOMER SERVICE</li>
+								<li>INNOVATION</li>
+								<li>MAXIMUM SECURITY</li>
+
+
+
+							</ul>
+						</div>
 				</div>
 			</div>
 		</div>
