@@ -90,7 +90,9 @@
 							<ul>
 									<li><a href="index.php">Home</a></li>									
 								<li ><a href="about.php">About</a></li>
-								<li><a href="servicees.php">Services</a></li>
+								<li><a href="services.php">Services</a></li>
+								<li><a href="gallery.php">Gallery</a></li>
+								<li><a href="reservations.php">Reservations</a></li>
 								<li class="active"><a href="contact.php">Contact</a></li>
 									</ul>
 								</li>

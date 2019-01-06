@@ -91,6 +91,8 @@
 									<li><a href="index.php">Home</a></li>									
 								<li class="active"><a href="about.php">About</a></li>
 								<li><a href="services.php">Services</a></li>
+								<li><a href="gallery.php">Gallery</a></li>
+								<li><a href="reservations.php">Reservations</a></li>
 								<li><a href="contact.php">Contact</a></li>
 									</ul>
 								</li>
@@ -127,7 +129,7 @@
 						<div class="about animate-box">
 							<h2>ABOUT US</h2>
 							<p>We have a highly dedicated trained and professionally qualified personnels capable of making your events a glorious,excellent and memorable one. SEEING IS BELIEVING!.</p>
-							<p>		</p>
+						
 						</div>
 					</div>
 					<div class="col-md-4">
@@ -137,19 +139,29 @@
 								<li>SALAWU ADEDOKUN - 1300 guests (gallery) 900 guests without (gallery)</li>
 								<li>ASIMOWU OLANIKE HALL 400 GUESTS BANQUET ARRANGEMENT</li>
 							</ul>
+								<P><B>OTHER FEATURES</B></P>
+								<li>decent and clean conveniences</li>
+								<li>more than 300 parking lots </li>
+								<li>fully Air-conditioned</li>
+								<li>250/60kva stand-by Generator </li>
+								<li>kitchenette</li>
+								<li>beautiful dressing room.</li>
+								<li>conducive and beautiful environment</li>
+								<li>100% Satisfaction Guaranteed </li>
+							</ul>
 					</div>
 					<div class="col-md-4">
 						<div class="about animate-box">
 							<h2>MISSION STATEMENT</h2>
 							<p>We have a highly dedicated trained and professionally qualified personnels capable of making your events a glorious,excellent and memorable one. SEEING IS BELIEVING!.we are to become the most excellent event centre in Africa. to archive this, our core values is our guide.</p>
 							
-							<ul>
+							<ul><b>
 								<li>CORE VALUES</li>
 								<li>INTEGRITY</li>
 								<li>EXCELLENCE</il>
 								<li>CUSTOMER SERVICE</li>
 								<li>INNOVATION</li>
-								<li>MAXIMUM SECURITY</li>
+								<li>MAXIMUM SECURITY</li></b>
 
 
 
@@ -183,6 +195,8 @@
 							<ul class="colorlib-footer-links">
 								<li><a href="aboutus.php">About Us</a></li>
 								<li><a href="services.php">Our Services</a></li>
+								<li><a href="gallery.php">Gallery</a></li>
+								<li><a href="reservations.php">Reservations</a></li>
 								<li><a href="contact.php">Contact Us</a></li>
 							</ul>
 						</p>

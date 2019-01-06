@@ -93,6 +93,7 @@
 								<li><a href="aboutus.php">About</a></li>
 								<li><a href="services.php">Services</a></li>
 								<li><a href="gallery.php">Gallery</a></li>
+								<li><a href="reservations.php">Reservations</a></li>
 								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</div>
@@ -166,7 +167,7 @@
 			<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
 						<h2>Our Services</h2>
-						<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
+						
 					</div>
 			<div class="container">
 				<div class="row">
@@ -176,7 +177,7 @@
 								<i class="flaticon-reception"></i>
 							</span>
 							<h3>24/7 Front Desk</h3>
-							<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
+							
 						</div>
 					</div>
 					<div class="col-md-3 animate-box text-center">
@@ -185,7 +186,7 @@
 								<i class="flaticon-herbs"></i>
 							</span>
 							<h3>Confrence</h3>
-							<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
+							
 						</div>
 					</div>
 					<div class="col-md-3 animate-box text-center">
@@ -194,7 +195,7 @@
 								<i class="flaticon-car"></i>
 							</span>
 							<h3>Workshops</h3>
-														<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
+														
 						</div>
 					</div>
 					<div class="col-md-3 animate-box text-center">
@@ -203,7 +204,7 @@
 								<i class="flaticon-cheers"></i>
 							</span>
 							<h3>Seminars</h3>
-							<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
+							
 						</div>
 					</div>
 				</div>
@@ -282,6 +283,8 @@
 							<ul class="colorlib-footer-links">
 								<li><a href="aboutus.php">About Us</a></li>
 								<li><a href="services.php">Our Services</a></li>
+								<li><a href="gallery.php">Gallery</a></li>
+								<li><a href="reservations.php">Reservations</a></li>
 								<li><a href="contact.php">Contact Us</a></li>
 							</ul>
 						</p>
