@@ -151,11 +151,11 @@
                     </a>
                 </div>
                <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/pix14.jpg">
-                        <img class="img-fluid image" src="images/pix14.jpg">
+                    <a class="lightbox" href="images/pix4.jpg">
+                        <img class="img-fluid image" src="images/pix4.jpg">
                         <span class="description">
-                            <span class="description-heading">Lorem Ipsum</span>
-                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                            <span class="description-heading">kitchenette</span>
+                            <span class="description-body"></span>
                         </span>
                     </a>
                 </div>
@@ -214,11 +214,11 @@
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/pix1.jpeg">
-                        <img class="img-fluid image" src="images/pix1.jpeg">
+                    <a class="lightbox" href="images/pix01.jpg">
+                        <img class="img-fluid image" src="images/pix01.jpg">
                         <span class="description">
-                            <span class="description-heading">Lorem Ipsum</span>
-                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                            <span class="description-heading">kitchenette</span>
+                            <span class="description-body"></span>
                         </span>
                     </a>
                 </div>
