@@ -89,10 +89,10 @@
 						<div class="col-xs-10 text-right menu-1">
 							<ul>
 									<li><a href="index.php">Home</a></li>									
-								<li ><a href="about.php">About</a></li>
+								<li ><a href="aboutus.php">About</a></li>
 								<li><a href="services.php">Services</a></li>
 								<li><a href="gallery.php">Gallery</a></li>
-								<li><a href="reservations.php">Reservations</a></li>
+							
 								<li class="active"><a href="contact.php">Contact</a></li>
 									</ul>
 								</li>
@@ -106,7 +106,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(images/img_bg_5.jpg);">
+			   	<li style="background-image: url(images/pix12.jpeg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -211,6 +211,7 @@
 								<li><a href="aboutus.php">About Us</a></li>
 								<li><a href="services.php">Our Services</a></li>
 								<li><a href="contact.php">Contact Us</a></li>
+								<li><a href="gallery.php">Gallery</a></li>
 							</ul>
 						</p>
 					</div>
