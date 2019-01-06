@@ -163,8 +163,8 @@
                     <a class="lightbox" href="images/pix15.jpeg">
                         <img class="img-fluid image" src="images/pix15.jpeg">
                         <span class="description">
-                            <span class="description-heading">Lorem Ipsum</span>
-                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-body"></span>
                         </span>
                     </a>
                 </div>
@@ -172,8 +172,8 @@
                     <a class="lightbox" href="images/pix16.jpg">
                         <img class="img-fluid image" src="images/pix16.jpg">
                         <span class="description">
-                            <span class="description-heading">Lorem Ipsum</span>
-                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                            <span class="description-heading"></span>
+                            <span class="description-body"></span>
                         </span>
                     </a>
                 </div>
@@ -190,8 +190,8 @@
                     <a class="lightbox" href="images/pix1.jpeg">
                         <img class="img-fluid image" src="images/pix1.jpeg">
                         <span class="description">
-                            <span class="description-heading">Lorem Ipsum</span>
-                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-body"></span>
                         </span>
                     </a>
                 </div>
