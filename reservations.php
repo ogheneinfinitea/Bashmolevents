@@ -112,8 +112,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner slider-text-inner2 text-center">
-				   					<h2>Get in touch</h2>
-				   					<h1>Contact Us</h1>
+				   					<h2>RESERVATIONS</h2>
+				   					<h1>Please fill the form below to make reservatio</h1>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -123,22 +123,7 @@
 		  	</div>
 		</aside>
 
-		<div id="colorlib-contact">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-10 col-md-offset-1 animate-box">
-						<h3>Contact Information</h3>
-						<div class="row contact-info-wrap">
-							<div class="col-md-3">
-								<p><span><i class="icon-location-2"></i></span> opposite Holy Trinity grammar school. old ife road, <br>Ibadan Nigeria</p>
-							</div>
-							<div class="col-md-3">
-								<p><span><i class="icon-phone3"></i></span> <a href="08062301023">08062301023</a></p>
-							</div>
-							<div class="col-md-3">
-								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@bashmolevents.com.ng">info@bashmoleventcentre.com.ng</a></p>
-							</div>
-							
+		
 						</div>
 					</div>
 					<div class="col-md-10 col-md-offset-1 animate-box">
@@ -184,7 +169,6 @@
 				</div>
 			</div>
 		</div>
-
 		<div id="map" class="colorlib-map"></div>
 	
 		<footer id="colorlib-footer" role="contentinfo">
