@@ -69,13 +69,13 @@
 							<p class="site">https://bashmoleventcentre.com.ng</p>
 						</div>
 						<div class="col-xs-8 text-right">
-							<p class="num">Call: 08062301023</p>
+							<p class="num">Call: 08116732562, 08116732572, 08112325633,</p>
 							<ul class="colorlib-social">
-								<li><a href="#"><i class="icon-twitter"></i></a></li>
-								<li><a href="#"><i class="icon-facebook"></i></a></li>
+								<li><a href="https://twitter.com/bashmol"><i class="icon-twitter"></i></a></li>
+								<li><a href="https://web.facebook.com/Bashmol-EVENT-Centre-Ibadan-1618490615107263/"><i class="icon-facebook"></i></a></li>
 								
 								<li><a href="#"><i class="icon-instagram"></i></a></li>
-								<li><a href="#"><i class="icon-whatsapp"></i></a></li>
+								<li><a href="#"><i class="icon-whatsapp"></i>08062301023</a></li>
 							</ul>
 						</div>
 					</div>
@@ -86,6 +86,7 @@
 					<div class="row">
 						<div class="col-xs-2">
 							<div id="colorlib-logo"><a href="index.php">Bashmolevents</a></div>
+							n
 						</div>
 						<div class="col-xs-10 text-right menu-1">
 							<ul>
@@ -124,7 +125,7 @@
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
 				   					<h2>Welcome to the Bashmol event centre</h2>
-				   					<h1>A Luxurious Event Centre</h1>
+				   					<h1>60kva and 250 kva Generator and personal transformer</h1>
 										
 				   				</div>
 				   			</div>
@@ -138,7 +139,7 @@
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
 				   					<h2>Welcome to the Bashmol event centre</h2>
-				   					<h1>A Luxurious Event Centre</h1>
+				   					<h1>More Than 300 parking lots</h1>
 										
 				   				</div>
 				   			</div>
@@ -152,7 +153,7 @@
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
 				   					<h2>Welcome to the Bashmol event centre</h2>
-				   					<h1>A Luxurious Event Centre</h1>
+				   					<h1></h1>
 										
 				   				</div>
 				   			</div>
@@ -213,49 +214,6 @@
 
 			
 	
-		<div id="colorlib-testimony" class="colorlib-light-grey">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
-						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
-						<h2>Our Satisfied Guests says</h2>
-						<p></i> Bashmol event centre provides one of the best services i have seen, thumbs up to them. keep up the good work</p>
-					</div>
-				</div>
-				<div class="row">
-				<div class="col-md-4 animate-box">
-					<div class="testimony text-center">
-						<span class="img-user" style="background-image: url(images/customer2.jpg);"></span>
-						<span class="user">Samson Eduotu</span>
-						<small>Satisfied Customer</small>
-						<blockquote>
-							<p></i> Bashmol event centre provides one of the best services i have seen, thumbs up to them. keep up the good work</p>
-						</blockquote>
-					</div>
-				</div>
-				<div class="col-md-4 animate-box">
-					<div class="testimony text-center">
-						<span class="img-user" style="background-image: url(images/customer2.jpg);"></span>
-						<span class="user">Amarachi Celestina</span>
-						<small>Satisfied Customer</small>
-						<blockquote>
-							<p></i> Bashmol event centre provides one of the best services i have seen, thumbs up to them. keep up the good work</p>
-						</blockquote>
-					</div>
-				</div>
-				<div class="col-md-4 animate-box">
-					<div class="testimony text-center">
-						<span class="img-user" style="background-image: url(images/customer2.jpg);"></span>
-						<span class="user">Musa Sule</span>
-						<small>Satisfied Customer</small>
-						<blockquote>
-							<p></i> Bashmol event centre provides one of the best services i have seen, thumbs up to them. keep up the good work</p>	
-						</blockquote>
-					</div>
-				</div>
-			</div>
-			</div>
-		</div>
 
 	
 		<footer id="colorlib-footer" role="contentinfo">
@@ -336,7 +294,19 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/bootstrap-datepicker.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
-
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c3ba95f494cc76b7872de40/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 	</body>
 </html>
 

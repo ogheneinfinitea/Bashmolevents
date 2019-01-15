@@ -72,12 +72,13 @@
                             <p class="site">https://bashmoleventcentre.com.ng</p>
                         </div>
                         <div class="col-xs-8 text-right">
-                            <p class="num">Call: 08062301023</p>
-                            <ul class="colorlib-social">
-                                <li><a href="#"><i class="icon-twitter"></i></a></li>
-                                <li><a href="#"><i class="icon-facebook"></i></a></li>
-                                <li><a href="#"><i class="icon-instagram"></i></a></li>
-                                <li><a href="#"><i class="icon-whatsapp"></i></a></li>
+							<p class="num">Call: 08116732562, 08116732572, 08112325633,</p>
+							<ul class="colorlib-social">
+								<li><a href="https://twitter.com/bashmol"><i class="icon-twitter"></i></a></li>
+								<li><a href="https://web.facebook.com/Bashmol-EVENT-Centre-Ibadan-1618490615107263/"><i class="icon-facebook"></i></a></li>
+								
+								<li><a href="#"><i class="icon-instagram"></i></a></li>
+								<li><a href="#"><i class="icon-whatsapp"></i>08062301023</a></li>
                             </ul>
                         </div>
                     </div>
@@ -127,7 +128,7 @@
                     <a class="lightbox" href="images/pix11.jpeg">
                         <img class="img-fluid image" src="images/pix11.jpeg">
                         <span class="description">
-                            <span class="description-heading">250/60kva stand-by Generator</span>
+                            <span class="description-heading">60kva and 250 kva Generator and personal transformer</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -181,8 +182,8 @@
                     <a class="lightbox" href="images/pix15.jpeg">
                         <img class="img-fluid image" src="images/pix15.jpeg">
                         <span class="description">
-                            <span class="description-heading">Lorem Ipsum</span>
-                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                            <span class="description-heading">BASHMOL EVENT CENTRE</span>
+                            <span class="description-body"></span>
                         </span>
                     </a>
                 </div>
@@ -195,23 +196,7 @@
                         </span>
                     </a>
                 </div>
-                <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/pix2.jpg">
-                        <img class="img-fluid image" src="images/pix2.jpg">
-                        <span class="description">
-                            <span class="description-heading">kitchenette</span>
-                            <span class="description-body"></span>
-                        </span>
-                    </a>
-                </div>
-                <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/pix3.jpeg">
-                        <img class="img-fluid image" src="images/pix3.jpeg">
-                        <span class="description">
-                            <span class="description-heading">Lorem Ipsum</span>
-                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
-                        </span>
-                    </a>
+          >
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
                     <a class="lightbox" href="images/pix01.jpg">
