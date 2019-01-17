@@ -88,7 +88,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-2">
-                            <div id="colorlib-logo"><a href="index.php">bashmolevents</a></div>
+                            <div><img src="images/log.jpeg" alt="BASHMOL EVENTS CENTRE"></div>
+							
                         </div>
                         <div class="col-xs-10 text-right menu-1">
                             <ul>
@@ -168,10 +169,116 @@
                             <span class="description-body"></span>
                         </span>
                     </a>
+
+
+<!-- 6-12 -->
+
+                </div>
+                <div class="row no-gutters">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b1.jpg">
+                        <img class="img-fluid image" src="images/b1.jpg">
+                        <span class="description">
+                            <span class="description-heading">BASHMOL EVENT CENTRE</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/pix16.jpg">
-                        <img class="img-fluid image" src="images/pix16.jpg">
+                    <a class="lightbox" href="images/b2.jpg">
+                        <img class="img-fluid image" src="images/b2.jpg">
+                        <span class="description">
+                            <span class="description-heading">60kva and 250 kva Generator and personal transformer</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b3.jpg">
+                        <img class="img-fluid image" src="images/b3.jpg">
+                        <span class="description">
+                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                
+               <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b4.jpg">
+                        <img class="img-fluid image" src="images/b4.jpg">
+                        <span class="description">
+                            <span class="description-heading">kitchenette</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b5.jpg">
+                        <img class="img-fluid image" src="images/b5.jpg">
+                        <span class="description">
+                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                <div class="row no-gutters">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b6.jpg">
+                        <img class="img-fluid image" src="images/b6.jpg">
+                        <span class="description">
+                            <span class="description-heading">BASHMOL EVENT CENTRE</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b7.jpg">
+                        <img class="img-fluid image" src="images/b7.jpg">
+                        <span class="description">
+                            <span class="description-heading">60kva and 250 kva Generator and personal transformer</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b8.jpg">
+                        <img class="img-fluid image" src="images/b8.jpg">
+                        <span class="description">
+                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b9.jpg">
+                        <img class="img-fluid image" src="images/b9.jpg">
+                        <span class="description">
+                            <span class="description-heading">fully Air-conditioned</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+               <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b10.jpg">
+                        <img class="img-fluid image" src="images/b10.jpg">
+                        <span class="description">
+                            <span class="description-heading">kitchenette</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b11.jpg">
+                        <img class="img-fluid image" src="images/b11.jpg">
+                        <span class="description">
+                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-body"></span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="images/b12.jpg">
+                        <img class="img-fluid image" src="images/b12.jpg">
                         <span class="description">
                             <span class="description-heading"></span>
                             <span class="description-body"></span>
@@ -179,8 +286,8 @@
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/pix15.jpeg">
-                        <img class="img-fluid image" src="images/pix15.jpeg">
+                    <a class="lightbox" href="images/b13.jpg">
+                        <img class="img-fluid image" src="images/b13.jpg">
                         <span class="description">
                             <span class="description-heading">BASHMOL EVENT CENTRE</span>
                             <span class="description-body"></span>
@@ -302,5 +409,17 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script>
         baguetteBox.run('.compact-gallery', { animation: 'slideIn'});
     </script>
+    <script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c3ba95f494cc76b7872de40/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </body>
 </html>

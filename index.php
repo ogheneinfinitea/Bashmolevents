@@ -85,8 +85,9 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="index.php">Bashmolevents</a></div>
-							n
+							<div><img src="images/log.jpeg" alt="BASHMOL EVENTS CENTRE"></div>
+							
+							
 						</div>
 						<div class="col-xs-10 text-right menu-1">
 							<ul>
@@ -110,7 +111,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol event centre</h2>
+				   					<h2>Welcome to the Bashmol Event Centre</h2>
 				   					<h1>A Luxurious Event Centre</h1>
 										
 				   				</div>
@@ -124,36 +125,78 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol event centre</h2>
-				   					<h1>60kva and 250 kva Generator and personal transformer</h1>
+				   					<h2>Welcome to the Bashmol Event Centre</h2>
+				   					<h1>60kva and 250 kva Generator and Personal Transformer</h1>
 										
 				   				</div>
 				   			</div>
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/bash3.jpeg);">
+			   	<li style="background-image: url(images/b8.jpg);">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluids">
+			   			<div class="row">
+				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
+				   				<div class="slider-text-inner text-center">
+				   					<h2>Welcome to the Bashmol Event Centre</h2>
+				   					<h1>SALAWU ADEDOKUN HALL</h1>
+										
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			   	<li style="background-image: url(images/b1.jpg);">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluid">
+			   			<div class="row">
+				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
+				   				<div class="slider-text-inner text-center">
+				   					<h2>Welcome to the Bashmol Event Centre</h2>
+				   					<h1>ASIMOWU OLANIKE HALL</h1>
+										
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			   	<li style="background-image: url(images/pix4.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluids">
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
 				   					<h2>Welcome to the Bashmol event centre</h2>
-				   					<h1>More Than 300 parking lots</h1>
+				   					<h1>KITCHENTTE</h1>
 										
 				   				</div>
 				   			</div>
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(images/bash4.jpeg);">
+			   	<li style="background-image: url(images/b10.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
 				   					<h2>Welcome to the Bashmol event centre</h2>
-				   					<h1></h1>
+				   					<h1>Clean and Decent Conveniences</h1>
+										
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			   	<li style="background-image: url(images/b12.jpg);">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluids">
+			   			<div class="row">
+				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
+				   				<div class="slider-text-inner text-center">
+				   					<h2>Welcome to the Bashmol Event Centre</h2>
+				   					<h1>Clean and Decent Conveniences.</h1>
 										
 				   				</div>
 				   			</div>
@@ -162,6 +205,7 @@
 			   	</li>	   	
 			  	</ul>
 		  	</div>
+
 		
 		<div id="colorlib-services">
 			<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">

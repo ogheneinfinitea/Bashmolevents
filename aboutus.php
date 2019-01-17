@@ -85,7 +85,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-2">
-							<div id="colorlib-logo"><a href="index.php">bashmolevents</a></div>
+							<div><img src="images/log.jpeg" alt="BASHMOL EVENTS CENTRE"></div>
 						</div>
 						<div class="col-xs-10 text-right menu-1">
 							<ul>
@@ -249,7 +249,18 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/bootstrap-datepicker.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
-
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c3ba95f494cc76b7872de40/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 	</body>
 </html>
 
