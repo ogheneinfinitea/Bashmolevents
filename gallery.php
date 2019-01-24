@@ -72,14 +72,14 @@
                             <p class="site">https://bashmoleventcentre.com.ng</p>
                         </div>
                         <div class="col-xs-8 text-right">
-							<p class="num">Call: 08116732562, 08116732572, 08112325633,</p>
+							<p class="num">Call: 08116732572, 08116732216,08116732572</p>
 							<ul class="colorlib-social">
 								<li><a href="https://twitter.com/bashmol"><i class="icon-twitter"></i></a></li>
 								<li><a href="https://web.facebook.com/Bashmol-EVENT-Centre-Ibadan-1618490615107263/"><i class="icon-facebook"></i></a></li>
 								
 								<li><a href="#"><i class="icon-instagram"></i></a></li>
-								<li><a href="#"><i class="icon-whatsapp"></i>08062301023</a></li>
-                            </ul>
+								<li><a href="#"><i class="icon-whatsapp"></i>08116732562</a></li>
+							</ul>
                         </div>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                     <a class="lightbox" href="images/pix10.jpeg">
                         <img class="img-fluid image" src="images/pix10.jpeg">
                         <span class="description">
-                            <span class="description-heading">BASHMOL EVENT CENTRE</span>
+                            <span class="description-heading">BASHMOL EVENT CENTRE IBADAN</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -129,7 +129,7 @@
                     <a class="lightbox" href="images/pix11.jpeg">
                         <img class="img-fluid image" src="images/pix11.jpeg">
                         <span class="description">
-                            <span class="description-heading">60kva and 250 kva Generator and personal transformer</span>
+                            <span class="description-heading">60kVa and 250kVa Generator and Personal Transformer</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -138,7 +138,7 @@
                     <a class="lightbox" href="images/pix12.jpeg">
                         <img class="img-fluid image" src="images/pix12.jpeg">
                         <span class="description">
-                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-heading">More than 300 Capacity Parking Lot</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -147,7 +147,7 @@
                     <a class="lightbox" href="images/pix13.jpeg">
                         <img class="img-fluid image" src="images/pix13.jpeg">
                         <span class="description">
-                            <span class="description-heading">fully Air-conditioned</span>
+                            <span class="description-heading">fully Air-Conditioned</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -156,7 +156,7 @@
                     <a class="lightbox" href="images/pix4.jpg">
                         <img class="img-fluid image" src="images/pix4.jpg">
                         <span class="description">
-                            <span class="description-heading">kitchenette</span>
+                            <span class="description-heading">ASIMOWU OLANIKE</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -165,7 +165,7 @@
                     <a class="lightbox" href="images/pix15.jpeg">
                         <img class="img-fluid image" src="images/pix15.jpeg">
                         <span class="description">
-                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-heading">More than 300 Capacity Parking Lot</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -179,7 +179,7 @@
                     <a class="lightbox" href="images/b1.jpg">
                         <img class="img-fluid image" src="images/b1.jpg">
                         <span class="description">
-                            <span class="description-heading">BASHMOL EVENT CENTRE</span>
+                            <span class="description-heading">SALAWU ADEDOKUN HALL</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -188,7 +188,7 @@
                     <a class="lightbox" href="images/b2.jpg">
                         <img class="img-fluid image" src="images/b2.jpg">
                         <span class="description">
-                            <span class="description-heading">60kva and 250 kva Generator and personal transformer</span>
+                            <span class="description-heading">BASHMOL EVENT CENTRE IBADAN </span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -197,7 +197,7 @@
                     <a class="lightbox" href="images/b3.jpg">
                         <img class="img-fluid image" src="images/b3.jpg">
                         <span class="description">
-                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-heading">BASHMOL EVENT CENTRE IBADAN</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -207,7 +207,7 @@
                     <a class="lightbox" href="images/b4.jpg">
                         <img class="img-fluid image" src="images/b4.jpg">
                         <span class="description">
-                            <span class="description-heading">kitchenette</span>
+                            <span class="description-heading">BASHMOL EVENT CENTRE IBADAN</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -216,12 +216,12 @@
                     <a class="lightbox" href="images/b5.jpg">
                         <img class="img-fluid image" src="images/b5.jpg">
                         <span class="description">
-                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-heading">More than 300 Capacity Parking Lot</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
                 </div>
-                <div class="row no-gutters">
+            
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
                     <a class="lightbox" href="images/b6.jpg">
                         <img class="img-fluid image" src="images/b6.jpg">
@@ -235,7 +235,7 @@
                     <a class="lightbox" href="images/b7.jpg">
                         <img class="img-fluid image" src="images/b7.jpg">
                         <span class="description">
-                            <span class="description-heading">60kva and 250 kva Generator and personal transformer</span>
+                            <span class="description-heading">SALAWU ADEDOKUN HALL</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -244,7 +244,7 @@
                     <a class="lightbox" href="images/b8.jpg">
                         <img class="img-fluid image" src="images/b8.jpg">
                         <span class="description">
-                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-heading">SALAWU ADEDOKUN HALLE</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -253,7 +253,7 @@
                     <a class="lightbox" href="images/b9.jpg">
                         <img class="img-fluid image" src="images/b9.jpg">
                         <span class="description">
-                            <span class="description-heading">fully Air-conditioned</span>
+                            <span class="description-heading">Clean and Decent Convinience</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -262,7 +262,7 @@
                     <a class="lightbox" href="images/b10.jpg">
                         <img class="img-fluid image" src="images/b10.jpg">
                         <span class="description">
-                            <span class="description-heading">kitchenette</span>
+                            <span class="description-heading">Clean and Decent Convinience</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -271,7 +271,7 @@
                     <a class="lightbox" href="images/b11.jpg">
                         <img class="img-fluid image" src="images/b11.jpg">
                         <span class="description">
-                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-heading">Clean and Decent Convinience</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -280,7 +280,7 @@
                     <a class="lightbox" href="images/b12.jpg">
                         <img class="img-fluid image" src="images/b12.jpg">
                         <span class="description">
-                            <span class="description-heading"></span>
+                            <span class="description-heading">Clean and Decent Convinience</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
@@ -298,18 +298,18 @@
                     <a class="lightbox" href="images/pix1.jpeg">
                         <img class="img-fluid image" src="images/pix1.jpeg">
                         <span class="description">
-                            <span class="description-heading">more than 300 parking lots</span>
+                            <span class="description-heading">BASHMOL EVENT CENTRE</span>
                             <span class="description-body"></span>
                         </span>
                     </a>
                 </div>
-          >
-                </div>
+          
+                
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
                     <a class="lightbox" href="images/pix01.jpg">
                         <img class="img-fluid image" src="images/pix01.jpg">
                         <span class="description">
-                            <span class="description-heading">kitchenette</span>
+                            <span class="description-heading">KITCHENETTE SECTION</span>
                             <span class="description-body"></span>
                         </span>
                     </a>

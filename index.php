@@ -69,13 +69,13 @@
 							<p class="site">https://bashmoleventcentre.com.ng</p>
 						</div>
 						<div class="col-xs-8 text-right">
-							<p class="num">Call: 08116732562, 08116732572, 08112325633,</p>
+							<p class="num">Call: 08116732572, 08116732216,08116732572</p>
 							<ul class="colorlib-social">
 								<li><a href="https://twitter.com/bashmol"><i class="icon-twitter"></i></a></li>
 								<li><a href="https://web.facebook.com/Bashmol-EVENT-Centre-Ibadan-1618490615107263/"><i class="icon-facebook"></i></a></li>
 								
 								<li><a href="#"><i class="icon-instagram"></i></a></li>
-								<li><a href="#"><i class="icon-whatsapp"></i>08062301023</a></li>
+								<li><a href="#"><i class="icon-whatsapp"></i>08116732562</a></li>
 							</ul>
 						</div>
 					</div>
@@ -111,8 +111,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol Event Centre</h2>
-				   					<h1>A Luxurious Event Centre</h1>
+				   					<h2></h2>
+				   					<h1>WELCOME TO BASHMOL EVENT CENTRE IBADAN</h1>
 										
 				   				</div>
 				   			</div>
@@ -125,8 +125,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol Event Centre</h2>
-				   					<h1>60kva and 250 kva Generator and Personal Transformer</h1>
+				   					<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   					<h1>60kVa and 250 kV	a Generator and Personal Transformer</h1>
 										
 				   				</div>
 				   			</div>
@@ -139,7 +139,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol Event Centre</h2>
+				   				<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
 				   					<h1>SALAWU ADEDOKUN HALL</h1>
 										
 				   				</div>
@@ -153,8 +153,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol Event Centre</h2>
-				   					<h1>ASIMOWU OLANIKE HALL</h1>
+				   					<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   					<h1>SALAWU ADEDOKUN HALL</h1>
 										
 				   				</div>
 				   			</div>
@@ -167,8 +167,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol event centre</h2>
-				   					<h1>KITCHENTTE</h1>
+				   			<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   					<h1>ASIMOWU OLANIKE</h1>
 										
 				   				</div>
 				   			</div>
@@ -181,8 +181,22 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol event centre</h2>
+				   				<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
 				   					<h1>Clean and Decent Conveniences</h1>
+										
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			   	<li style="background-image: url(images/bashcar.jpeg);">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluid">
+			   			<div class="row">
+				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
+				   				<div class="slider-text-inner text-center">
+				   				<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   					<h1>More than 300 Capacity Parking Lot</h1>
 										
 				   				</div>
 				   			</div>
@@ -195,7 +209,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol Event Centre</h2>
+				   			<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
 				   					<h1>Clean and Decent Conveniences.</h1>
 										
 				   				</div>

@@ -68,13 +68,13 @@
 							<p class="site">https://bashmoleventcentre.com.ng</p>
 						</div>
 						<div class="col-xs-8 text-right">
-							<p class="num">Call: 08116732562, 08116732572, 08112325633,</p>
+							<p class="num">Call: 08116732572, 08116732216,08116732572</p>
 							<ul class="colorlib-social">
 								<li><a href="https://twitter.com/bashmol"><i class="icon-twitter"></i></a></li>
 								<li><a href="https://web.facebook.com/Bashmol-EVENT-Centre-Ibadan-1618490615107263/"><i class="icon-facebook"></i></a></li>
 								
 								<li><a href="#"><i class="icon-instagram"></i></a></li>
-								<li><a href="#"><i class="icon-whatsapp"></i>08062301023</a></li>
+								<li><a href="#"><i class="icon-whatsapp"></i>08116732562</a></li>
 							</ul>
 						</div>
 					</div>
