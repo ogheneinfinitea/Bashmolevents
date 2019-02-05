@@ -34,9 +34,11 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
 
     <!-- Flexslider  -->
-    <link rel="stylesheet" href="cs1s/flexslider.css">
+    <link rel="stylesheet" href="css/flexslider.css">
 
-    
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
     
     <!-- Date Picker -->
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
@@ -45,7 +47,7 @@
 
     <!-- Theme style  -->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https:// maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" />
     <link rel="stylesheet" href="css/compact-gallery.css">
 
@@ -407,17 +409,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script>
         baguetteBox.run('.compact-gallery', { animation: 'slideIn'});
     </script>
-    <script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5c3ba95f494cc76b7872de40/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
-<!--End of Tawk.to Script-->
+
 </body>
 </html>

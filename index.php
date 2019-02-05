@@ -125,8 +125,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
-				   					<h1>60kVa and 250 kV	a Generator and Personal Transformer</h1>
+				   					<h2>Welcome to  Bashmol Event Centre Ibadan</h2>
+				   					<h1>60kVa and 250 kVa Generator and Personal Transformer</h1>
 										
 				   				</div>
 				   			</div>
@@ -139,7 +139,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   				<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   				<h2>Welcome to  Bashmol Event Centre Ibadan</h2>
 				   					<h1>SALAWU ADEDOKUN HALL</h1>
 										
 				   				</div>
@@ -153,7 +153,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   					<h2>Welcome to  Bashmol Event Centre Ibadan</h2>
 				   					<h1>SALAWU ADEDOKUN HALL</h1>
 										
 				   				</div>
@@ -167,7 +167,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   			<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   			<h2>Welcome to  Bashmol Event Centre Ibadan</h2>
 				   					<h1>ASIMOWU OLANIKE</h1>
 										
 				   				</div>
@@ -181,7 +181,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   				<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   				<h2>Welcome to  Bashmol Event Centre Ibadan</h2>
 				   					<h1>Clean and Decent Conveniences</h1>
 										
 				   				</div>
@@ -195,7 +195,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   				<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   				<h2>Welcome to  Bashmol Event Centre Ibadan</h2>
 				   					<h1>More than 300 Capacity Parking Lot</h1>
 										
 				   				</div>
@@ -209,7 +209,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   			<h2>Welcome to the Bashmol Event Centre Ibadan</h2>
+				   			<h2>Welcome to  Bashmol Event Centre Ibadan</h2>
 				   					<h1>Clean and Decent Conveniences.</h1>
 										
 				   				</div>
@@ -353,17 +353,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<!-- Main -->
 	<script src="js/main.js"></script>
 <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/5c3ba95f494cc76b7872de40/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
+
 <!--End of Tawk.to Script-->
 	</body>
 </html>
