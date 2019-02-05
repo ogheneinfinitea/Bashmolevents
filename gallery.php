@@ -34,11 +34,9 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
 
     <!-- Flexslider  -->
-    <link rel="stylesheet" href="css/flexslider.css">
+    <link rel="stylesheet" href="cs1s/flexslider.css">
 
-    <!-- Owl Carousel -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    
     
     <!-- Date Picker -->
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
@@ -51,7 +49,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" />
     <link rel="stylesheet" href="css/compact-gallery.css">
 
-    <!-- Modernizr JS -->
+    <!-- Modernizr JS --> 
     <script src="js/modernizr-2.6.2.min.js"></script>
     <!-- FOR IE9 below -->
     <!--[if lt IE 9]>
