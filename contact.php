@@ -135,7 +135,7 @@
 								<p><span><i class="icon-location-2"></i></span> opposite Holy Trinity grammar school. old ife road, <br>Ibadan Nigeria</p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-phone3"></i></span> <a href="#"> 08116732216,08116732572</a></p>
+								<p><span><i class="icon-phone3"></i></span> <a href="#"> 08116732562,08116732572</a></p>
 							</div>
 							<div class="col-md-3">
 								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@bashmolevents.com.ng">info@bashmoleventcentre.com.ng</a></p>

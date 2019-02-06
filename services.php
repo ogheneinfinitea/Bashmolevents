@@ -114,8 +114,8 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner slider-text-inner2 text-center">
-				   					<h2>Services</h2>
-				   					<h1>services We Offer</h1>
+				   					<h1>Services</h1>
+				   					
 				   				</div>
 				   			</div>
 				   		</div>
@@ -129,7 +129,7 @@
 			<div class="col-md-6 col-md-offset-3 text-center colorlib-heading animate-box">
 						<span><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i><i class="icon-star-full"></i></span>
 						<h2>Our Services</h2>
-						<p>Here at Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
+						<p>At Bashmolevents we provide services for all kinds of events you can think of ranging from birthdays, burials, seminars, workshops,wedding reception, church service</p>
 					</div>
 			<div class="container">
 				<div class="row">
@@ -147,7 +147,7 @@
 							<span class="icon">
 								<i class="flaticon-herbs"></i>
 							</span>
-							<h3>Confrence</h3>
+							<h3>Conference</h3>
 							<p></p>
 						</div>
 					</div>

@@ -243,7 +243,7 @@
 							<span class="icon">
 								<i class="flaticon-herbs"></i>
 							</span>
-							<h3>Confrence</h3>
+							<h3>Conference</h3>
 							
 						</div>
 					</div>

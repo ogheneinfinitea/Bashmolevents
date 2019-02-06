@@ -109,7 +109,7 @@
 				<ul class="slides">
 			   	<li style="background-image: url(images/bash1.jpeg);">
 			   		<div class="overlay"></div>
-			   		<div class="container-fluid">
+			   		<div class="container-fluid">600 GUESTS THEATRE ARRANGEMENT
 			   			<div class="row">
 				   			<div class="col-md-6 col-sm-12 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner slider-text-inner2 text-center">
@@ -128,41 +128,46 @@
 				<div class="row">
 					<div class="col-md-4">
 						<div class="about animate-box">
-							<h2>ABOUT US</h2>
+							<h3><b>ABOUT US</b></h3>
 							<p>We have a highly dedicated trained and professionally qualified personnels capable of making your events a glorious,excellent and memorable one. SEEING IS BELIEVING!.</p>
-						
+							<h3><B>OTHER FEATURES</B></h3>
+								<li>Decent and clean conveniences</li>
+								<li>More than 300 parking lots </li>
+								<li>Fully Air-conditioned</li>
+								<li>250 and 60kva stand-by Generator </li>
+								<li>Kitchenette</li>
+								<li>Beautiful dressing room.</li>
+								<li>Conducive and beautiful environment</li>
+								<li>100% Satisfaction Guaranteed </li>
+							</ul>
 						</div>
 					</div>
 					<div class="col-md-4">
-						<h2>OUR FEATURES</h2>
+						<h3><b>OUR FEATURES</b></h3>
+
 						<P><B>HALLS WE HAVE</B></P>
 							<ul>
-								<li>SALAWU ADEDOKUN - 1300 guests (gallery) 900 guests without (gallery)</li>
-								<li>ASIMOWU OLANIKE HALL 400 GUESTS BANQUET ARRANGEMENT</li>
+							<li>Bashmol hall (full) 1300 Guests Banquet arrangement.2000 Guests Theatre arrangement</li>
+								<li>SALAWU ADEDOKUN ) 900 Guests without (gallery)</li>
+								<li>ASIMOWU OLANIKE HALL 400 GUESTS BANQUET ARRANGEMENT 600 GUESTS THEATRE ARRANGEMENT</li>
+								
+								 
 							</ul>
-								<P><B>OTHER FEATURES</B></P>
-								<li>decent and clean conveniences</li>
-								<li>more than 300 parking lots </li>
-								<li>fully Air-conditioned</li>
-								<li>250/60kva stand-by Generator </li>
-								<li>kitchenette</li>
-								<li>beautiful dressing room.</li>
-								<li>conducive and beautiful environment</li>
-								<li>100% Satisfaction Guaranteed </li>
-							</ul>
+							
+								
 					</div>
 					<div class="col-md-4">
 						<div class="about animate-box">
-							<h2>MISSION STATEMENT</h2>
-							<p>We have a highly dedicated trained and professionally qualified personnels capable of making your events a glorious,excellent and memorable one. SEEING IS BELIEVING!.we are to become the most excellent event centre in Africa. to archive this, our core values is our guide.</p>
+							<h3><B>MISSION STATEMENT</b></h3>
+							<p>We are to become the most excellent event centre in Africa. To achieve this our core value is our guide</p>
 							
-							<ul><b>
-								<li>CORE VALUES</li>
+							<ul>
+							<h3><b>CORE VALUES</b></h3>
 								<li>INTEGRITY</li>
 								<li>EXCELLENCE</il>
 								<li>CUSTOMER SERVICE</li>
 								<li>INNOVATION</li>
-								<li>MAXIMUM SECURITY</li></b>
+								<li>SECURITY</li>
 
 
 
