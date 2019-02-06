@@ -135,7 +135,7 @@
 								<p><span><i class="icon-location-2"></i></span> opposite Holy Trinity grammar school. old ife road, <br>Ibadan Nigeria</p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-phone3"></i></span> <a href="08062301023">08062301023</a></p>
+								<p><span><i class="icon-phone3"></i></span> <a href="#"> 08116732216,08116732572</a></p>
 							</div>
 							<div class="col-md-3">
 								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@bashmolevents.com.ng">info@bashmoleventcentre.com.ng</a></p>
@@ -222,7 +222,7 @@
 						<h4>Contact Information</h4>
 						<ul class="colorlib-footer-links">
 							<li>opposite Holy Trinity grammar school. old ife road, <br> Ibadan Nigeria</li>
-							<li><a href="08062301023"><li><a href="#"><i class="icon-whatsapp">08062301023</i></a></li></a></li>
+						
 							<li><a href="mailto:info@bashmolevents.com.ng">info@bashmolevents.com.ng</a></li>
 							<li><a href="http://bashmolevents.com.ng">bashmolevents.com.ng</a></li>
 						</ul>
@@ -268,12 +268,13 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/google_map.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
+<!--Start of Tawk.to Script-->
 <script type="text/javascript">
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
-s1.src='https://embed.tawk.to/5c3ba95f494cc76b7872de40/default';
+s1.src='https://embed.tawk.to/5c5aa5e96cb1ff3c14cb4f44/default';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);

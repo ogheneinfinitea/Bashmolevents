@@ -34,11 +34,9 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
 
     <!-- Flexslider  -->
-    <link rel="stylesheet" href="css/flexslider.css">
+    <link rel="stylesheet" href="cs1s/flexslider.css">
 
-    <!-- Owl Carousel -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    
     
     <!-- Date Picker -->
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
@@ -47,7 +45,7 @@
 
     <!-- Theme style  -->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https:// maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css" />
     <link rel="stylesheet" href="css/compact-gallery.css">
 
@@ -354,8 +352,8 @@
                         <h4>Contact Information</h4>
                         <ul class="colorlib-footer-links">
                             <li>opposite Holy Trinity grammar school. old ife road, <br> Ibadan Nigeria</li>
-                            <li><a href="08062301023"><li><a href="#"><i class="icon-whatsapp">08062301023</i></a></li></a></li>
-                            <li><a href="mailto:info@bashmolevents.com.ng">info@bashmolevents.com.ng</a></li>
+                            <li><a href="08116732562"><li><a href="#"><i class="icon-whatsapp">08116732562</i></a></li></a></li>
+                            <li><a href="mailto:info@bashmoleve nts.com.ng">info@bashmolevents.com.ng</a></li>
                             <li><a href="http://bashmolevents.com.ng">bashmolevents.com.ng</a></li>
                         </ul>
                     </div>
@@ -409,6 +407,18 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script>
         baguetteBox.run('.compact-gallery', { animation: 'slideIn'});
     </script>
-
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c5aa5e96cb1ff3c14cb4f44/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </body>
 </html>
